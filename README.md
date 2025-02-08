@@ -4,7 +4,7 @@ Welcome to my GitHub profile repository! Here’s a bit about me:
 
 ## About Me
 
-- 🌱 I’m currently learning full-stack development.
+- 🌱 I’m currently learning front-end development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced algorithms.
 - 💬 Ask me about web development,software development, Python, and JavaScript.
@@ -14,9 +14,9 @@ Welcome to my GitHub profile repository! Here’s a bit about me:
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, C
+- **Programming Languages**: Python, JavaScript, C , c++
 - **Frameworks and Libraries**: React, Node.js, Django
-- **Tools and Platforms**: Git, Docker, AWS
+- **Tools and Platforms**: Git, Figma
 
 ## Projects
 
